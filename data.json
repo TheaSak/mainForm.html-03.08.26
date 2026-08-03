@@ -1,0 +1,82 @@
+{
+  "student": [
+    {
+      "id": "001",
+      "name": "Thea Monyrithsak",
+      "gender": "Male",
+      "age": 19,
+      "email": "saktheaa@gmail.com"
+    },
+    {
+      "id": "002",
+      "name": "Sok Dara",
+      "gender": "Male",
+      "age": 20,
+      "email": "sokdara@gmail.com"
+    },
+    {
+      "id": "003",
+      "name": "Chan Sreynich",
+      "gender": "Female",
+      "age": 18,
+      "email": "sreynich@gmail.com"
+    },
+    {
+      "id": "005",
+      "name": "Lim Sophea",
+      "gender": "Female",
+      "age": 19,
+      "email": "lim.sophea@gmail.com"
+    },
+    {
+      "id": "006",
+      "name": "Heng Visal",
+      "gender": "Male",
+      "age": 22,
+      "email": "heng.visal@gmail.com"
+    },
+    {
+      "id": "007",
+      "name": "Phan Malis",
+      "gender": "Female",
+      "age": 20,
+      "email": "phan.malis@gmail.com"
+    },
+    {
+      "id": "008",
+      "name": "Nou Vannak",
+      "gender": "Male",
+      "age": 18,
+      "email": "nou.vannak@gmail.com"
+    },
+    {
+      "id": "009",
+      "name": "Chea Sopheak",
+      "gender": "Male",
+      "age": 21,
+      "email": "chea.sopheak@gmail.com"
+    },
+    {
+      "id": "010",
+      "name": "Keo Sreyleak",
+      "gender": "Female",
+      "age": 19,
+      "email": "keo.sreyleak@gmail.com"
+    },
+    {
+      "name": "Seng Soboramey",
+      "gender": "Female",
+      "email": "muzzbmey@gmail.com",
+      "age": "20",
+      "id": "Yw4yVnoho2g"
+    },
+    {
+      "name": "Seng Soboramey",
+      "gender": "Female",
+      "email": "saktheaa@gmail.com",
+      "age": "21",
+      "id": "J81FGDE5gaM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
